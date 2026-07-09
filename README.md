@@ -92,6 +92,30 @@ A comparative analysis was performed to identify the best-performing model based
 
 ---
 
+## 📁 Project Structure
+
+Below is the layout of the repository and the naming conventions used for the project outputs:
+
+├── Dataset/
+│   ├── loan_approval_data.csv
+│   └── dataset_description.txt
+├── Notebook/
+│   └── CreditWise_LoanApproval.ipynb
+├── Output/
+│   ├── eda_filename.jpg          # EDA Outputs
+│   ├── eval_before_filename.jpg  # ML Output (Before Feature Engineering)
+│   └── eval_after_filename.jpg   # ML Output (After Feature Engineering)
+└── README.md
+
+---
+
+### 🔍 Naming Conventions for the `output/` Folder:
+*   **`eda_`**: Prefixed for all Exploratory Data Analysis graphs and plots.
+*   **`eval_before_[filename]`**: Prefixed for Machine Learning evaluation reports and matrices generated **before** feature engineering.
+*   **`eval_after_[filename]`**: Prefixed for Machine Learning evaluation reports and matrices generated **after** feature engineering.
+
+---
+
 ## 🚀 Future Enhancements
 
 * Model Deployment using Streamlit or Flask
