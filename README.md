@@ -60,6 +60,13 @@ The following preprocessing techniques were applied before model training:
 
 ---
 
+## ⚙️ Feature Engineering
+
+* Added new Features for better model performance
+* Transformed features to reduce skewness & penalise heavily
+
+---
+
 ## 🤖 Machine Learning Models
 
 Three classification algorithms were implemented and compared:
@@ -87,9 +94,6 @@ A comparative analysis was performed to identify the best-performing model based
 
 ## 🚀 Future Enhancements
 
-* Hyperparameter Tuning with GridSearchCV
-* Feature Engineering
-* Cross-Validation
 * Model Deployment using Streamlit or Flask
 * Explainable AI using SHAP or LIME
 
