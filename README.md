@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-CreditWise is a Machine Learning-based classification project that predicts whether a loan application is likely to be **approved** or **rejected** based on an applicant's financial and demographic information.
+CreditWise - Loan Approval System is a Machine Learning-based classification project that predicts whether a loan application is likely to be **approved** or **rejected** based on an applicant's financial and demographic information.
 
 This project demonstrates an end-to-end machine learning workflow, from data preprocessing and exploratory data analysis to model training, evaluation, and comparison.
 
