@@ -110,13 +110,6 @@ Below is the layout of the repository and the naming conventions used for the pr
 
 ---
 
-### 🔍 Naming Conventions for the `output/` Folder:
-*   **`eda_`**: Prefixed for all Exploratory Data Analysis graphs and plots.
-*   **`eval_before_[filename]`**: Prefixed for Machine Learning evaluation reports and matrices generated **before** feature engineering.
-*   **`eval_after_[filename]`**: Prefixed for Machine Learning evaluation reports and matrices generated **after** feature engineering.
-
----
-
 ## 🚀 Future Enhancements
 
 * Model Deployment using Streamlit or Flask
