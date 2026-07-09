@@ -95,7 +95,7 @@ A comparative analysis was performed to identify the best-performing model based
 ## 📁 Project Structure
 
 Below is the layout of the repository and the naming conventions used for the project outputs:
-
+''' text
 ├── Dataset/
 │   ├── loan_approval_data.csv
 │   └── dataset_description.txt
@@ -106,6 +106,7 @@ Below is the layout of the repository and the naming conventions used for the pr
 │   ├── eval_before_filename.jpg  # ML Output (Before Feature Engineering)
 │   └── eval_after_filename.jpg   # ML Output (After Feature Engineering)
 └── README.md
+'''
 
 ---
 
