@@ -1,0 +1,43 @@
+Each row in the dataset represents a loan applicant and contains multiple attributes describing their personal, financial, and credit information.
+
+       Feature                                             Description
+
+1.   Applicant_ID---------------------------------------Unique applicant ID
+
+2.   Applicant_Income-----------------------------------Monthly income of applicant
+
+3.   Coapplicant_Income---------------------------------Monthly income of co-applicant
+
+4.   Employment_Status----------------------------------Salaried / Self-Employed / Business
+
+5.   Age------------------------------------------------Applicant age
+
+6.   Marital_Status-------------------------------------Married / Single
+
+7.   Dependents-----------------------------------------Number of dependents
+
+8.   Credit_Score---------------------------------------Credit bureau score
+
+9.   Existing_Loans-------------------------------------Number of already running loans
+
+10.  DTI_Ratio------------------------------------------Debt-to-Income ratio
+
+11.  Savings--------------------------------------------Savings balance
+
+12.  Collateral_Value-----------------------------------Value of collateral provided
+
+13.  Loan_Amount----------------------------------------Loan amount requested
+
+14.  Loan_Term------------------------------------------Loan duration (months)
+
+15.  Loan_Purpose---------------------------------------Home / Education / Personal / Business
+
+16.  Property_Area--------------------------------------Urban / Semi-Urban / Rural
+
+17.  Education_Level------------------------------------Graduate / Postgraduate / Undergraduate
+
+18.  Gender---------------------------------------------Male / Female
+
+19.  Employer_Category----------------------------------Govt / Private / Self
+
+20.  Loan_Approved--------------------------------------Yes = Approved, No = Rejected
