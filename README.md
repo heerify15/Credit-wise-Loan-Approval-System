@@ -94,7 +94,7 @@ A comparative analysis was performed to identify the best-performing model based
 
 ## 📁 Project Structure
 
-Below is the layout of the repository and the naming conventions used for the project outputs:
+Below is the repository layout:
 ```text
 ├── Dataset/
 │   ├── loan_approval_data.csv
